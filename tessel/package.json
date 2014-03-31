@@ -1,0 +1,17 @@
+{
+  "name": "bleam",
+  "version": "0.0.0",
+  "description": "",
+  "main": "bleamer.js",
+  "dependencies": {
+    "ble-ble113a": "~0.0.27",
+    "camera-vc0706": "~0.0.1",
+    "async" : "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jon@technical.io",
+  "license": "MIT"
+}
