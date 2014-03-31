@@ -4,8 +4,8 @@
   "description": "",
   "main": "bleamer.js",
   "dependencies": {
-    "ble-ble113a": "~0.0.27",
-    "camera-vc0706": "~0.0.1",
+    "ble-ble113a": "*",
+    "camera-vc0706": "*",
     "async" : "*"
   },
   "devDependencies": {},
